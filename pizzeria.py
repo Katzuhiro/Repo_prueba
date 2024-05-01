@@ -1,0 +1,6 @@
+print("Bienvenido a nuestra pizzeria")
+print("Menú")
+print("1. Hawaiana")
+print("2. Pepperoni")
+print("3. Napolitana")
+print("4. Champiñones")
