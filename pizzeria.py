@@ -10,7 +10,7 @@ pepperoni = 20000
 napolitana = 13500
 champiñones = 14600
 
-accion = int(input("Por favor elija una apcion del menú: "))
+accion = int(input("Por favor elija una opcion del menú: "))
 
 if accion ==1:
     cantidad = int(input("ingrese la cantidad de pizzas que desea ordenar: "))
